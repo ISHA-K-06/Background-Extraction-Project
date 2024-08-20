@@ -1,4 +1,4 @@
-# Backgroung-Extraction-Project
+# Background-Extraction-Project
 
 An important task when processing sensor data is to 
 distinguish relevant from irrelevant data. This project 
